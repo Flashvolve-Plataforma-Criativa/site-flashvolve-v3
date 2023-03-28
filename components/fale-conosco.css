@@ -1,0 +1,323 @@
+.fale-conosco-fale-conosco {
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 0px 20px;
+  position: relative;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--dl-color-primary-100);
+}
+.fale-conosco-container {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1215px;
+  align-self: center;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.fale-conosco-container01 {
+  width: 100%;
+  height: 100px;
+  margin-top: 35px;
+  align-items: center;
+}
+.fale-conosco-text {
+  width: 100%;
+  font-size: 32px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 500;
+}
+.fale-conosco-container02 {
+  flex: 0 0 auto;
+  width: 45%;
+  height: auto;
+  margin: 25px 0px;
+  display: flex;
+  align-self: flex-start;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: center;
+}
+.fale-conosco-container03 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100%;
+  margin: 0px 10px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.fale-conosco-container04 {
+  position: relative;
+}
+.fale-conosco-container05 {
+  width: 48px;
+  height: 48px;
+  position: relative;
+  margin-top: 25px;
+  border-radius: var(--dl-radius-radius-round);
+  margin-bottom: 25px;
+  background-color: #000000;
+}
+.fale-conosco-icon {
+  top: 0px;
+  left: 0px;
+  color: #ffffff;
+  right: 0px;
+  bottom: 0px;
+  margin: auto;
+  position: absolute;
+}
+.fale-conosco-text01 {
+  font-size: 28px;
+  font-style: normal;
+  font-family: Roboto;
+  font-weight: 700;
+}
+.fale-conosco-text02 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: Roboto;
+  font-weight: 500;
+}
+.fale-conosco-container07 {
+  width: 48px;
+  height: 48px;
+  position: relative;
+  margin-top: 25px;
+  border-radius: var(--dl-radius-radius-round);
+  margin-bottom: 25px;
+  background-color: #000000;
+}
+.fale-conosco-icon2 {
+  top: 0px;
+  left: 0px;
+  color: #ffffff;
+  right: 0px;
+  bottom: 0px;
+  margin: auto;
+  position: absolute;
+}
+.fale-conosco-text03 {
+  font-size: 28px;
+  font-style: normal;
+  font-family: Roboto;
+  font-weight: 700;
+}
+.fale-conosco-text04 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: Roboto;
+  font-weight: 500;
+}
+.fale-conosco-text05 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: Roboto;
+  font-weight: 500;
+}
+.fale-conosco-container09 {
+  width: 48px;
+  height: 48px;
+  position: relative;
+  margin-top: 25px;
+  border-radius: var(--dl-radius-radius-round);
+  margin-bottom: 25px;
+  background-color: #000000;
+}
+.fale-conosco-icon4 {
+  top: 0px;
+  left: 0px;
+  color: #ffffff;
+  right: 0px;
+  bottom: 0px;
+  margin: auto;
+  position: absolute;
+}
+.fale-conosco-text06 {
+  font-size: 28px;
+  font-style: normal;
+  font-family: Roboto;
+  font-weight: 700;
+}
+.fale-conosco-container10 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  margin-top: 15px;
+  align-items: flex-start;
+}
+.fale-conosco-image {
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+}
+.fale-conosco-image1 {
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+  margin-left: 15px;
+}
+.fale-conosco-container11 {
+  flex: 0 0 auto;
+  width: 45%;
+  height: 450px;
+  display: flex;
+  padding: 25px;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  border-radius: var(--dl-radius-radius-radius8);
+  margin-bottom: 93px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #F7F8F9;
+}
+.fale-conosco-form {
+  width: 100%;
+  height: 90%;
+  display: flex;
+  align-self: center;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.fale-conosco-container12 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.fale-conosco-text07 {
+  font-size: 16px;
+  font-style: normal;
+  font-family: Roboto;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+.fale-conosco-textinput {
+  width: 100%;
+  height: 45px;
+  margin-bottom: 25px;
+}
+.fale-conosco-text08 {
+  font-size: 16px;
+  font-style: normal;
+  font-family: Roboto;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+.fale-conosco-textarea {
+  width: 100%;
+  height: 130px;
+  margin-bottom: 25px;
+}
+.fale-conosco-button {
+  color: rgb(255, 255, 255);
+  width: 100%;
+  height: 60px;
+  align-self: center;
+  text-align: center;
+  font-family: Roboto;
+  background-color: rgb(0, 0, 0);
+}
+.fale-conosco-text11 {
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+}
+@media(max-width: 991px) {
+  .fale-conosco-container {
+    height: 100%;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .fale-conosco-container01 {
+    height: auto;
+    margin-top: 25px;
+    justify-items: center;
+  }
+  .fale-conosco-container02 {
+    heigth: 100%;
+  }
+  .fale-conosco-container03 {
+    height: auto;
+    align-items: flex-start;
+    justify-items: center;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .fale-conosco-container04 {
+    justify-self: center;
+  }
+  .fale-conosco-container11 {
+    height: auto;
+  }
+}
+@media(max-width: 767px) {
+  .fale-conosco-fale-conosco {
+    height: auto;
+    flex-wrap: wrap;
+    align-self: center;
+    align-items: flex-start;
+    justify-content: center;
+  }
+  .fale-conosco-container {
+    height: auto;
+    flex-wrap: wrap;
+    align-self: center;
+    align-items: flex-start;
+    justify-content: center;
+  }
+  .fale-conosco-container01 {
+    align-self: flex-start;
+    justify-content: center;
+  }
+  .fale-conosco-container02 {
+    height: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+  }
+  .fale-conosco-container03 {
+    margin-top: 25px;
+    margin-bottom: 25px;
+  }
+  .fale-conosco-text06 {
+    text-align: left;
+  }
+  .fale-conosco-container11 {
+    min-width: 390px;
+  }
+}
+@media(max-width: 479px) {
+  .fale-conosco-fale-conosco {
+    height: auto;
+    padding: 20px;
+    flex-wrap: wrap;
+  }
+  .fale-conosco-container {
+    height: 100%;
+    flex-wrap: wrap;
+  }
+  .fale-conosco-container01 {
+    height: auto;
+  }
+  .fale-conosco-container02 {
+    width: 100%;
+    margin: 20px 10px;
+  }
+  .fale-conosco-container11 {
+    width: 100%;
+    min-width: 320px;
+  }
+}

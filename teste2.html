@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .bg-blue {
+        background-color: blue;
+        color: white;
+    }
+
+    .bg-orange {
+        background-color: orangered;
+        color: black;
+    }
+</style>
+
+<body>
+    <nav>
+        <ul>
+            <li>Produto A</li>
+            <li>Produto B</li>
+        </ul>
+    </nav>
+    <div class="produto-container" id="produto-container-id">
+        <div class="produto-conteudo-1">
+            <div class="bg-blue">
+                <h2>Produto A 222</h2>
+            </div>
+        </div>
+        <div class="produto-conteudo-2">
+            <div>
+                <h2>Produto B 99</h2>
+            </div>
+        </div>
+    </div>
+    <script>
+        const produtoA = document.querySelector('.produto-conteudo-1');
+        const produtoB = document.querySelector('.produto-conteudo-2');
+        const liA = document.querySelectorAll('nav ul li')[0];
+        const liB = document.querySelectorAll('nav ul li')[1];
+
+        liA.addEventListener('click', function () {
+            produtoA.classList.add('bg-blue');
+            produtoB.classList.remove('bg-orange');
+        });
+
+        liB.addEventListener('click', function () {
+            produtoA.style.display = 'none';
+            produtoB.style.display = 'block';
+            produtoB.classList.add('bg-orange');
+        });
+    </script>
+</body>
+
+</html>
